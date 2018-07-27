@@ -1,7 +1,7 @@
 x=3
 if(x>0):
-  print('given number is positive')
+  print('positive')
 elif('x==0'):
-  print('given number is zero')
+  print('zero')
 else:
-  print('given number is negative')
+  print('negative')
