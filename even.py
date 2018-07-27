@@ -1,7 +1,8 @@
-x=3
-if(x % 2==0):
-  print('even')
-elif(x % 2 <>0):
-  print('odd')
+x=int(input())
+if(x>0):
+  if(x % 2==0):
+           print('even')
+   else:
+        print('odd')
 else:
   print('invalid')
