@@ -1,7 +1,6 @@
-t=int(input("Enter number:"))
+t=int(input())
 fact=1
-while(n>0):
+while(t>0):
     fact=fact*t
     t=t-1
-print("Factorial of the number is: ")
 print(fact)
