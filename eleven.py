@@ -1,4 +1,4 @@
-n=int(input())
-p=int(input())
+k=int(input())
+m=int(input())
 import math
-print math.pow(n,p)
+print math.pow(k,m)
