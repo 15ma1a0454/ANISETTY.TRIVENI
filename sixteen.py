@@ -1,6 +1,6 @@
 r = int(input())
 v = int(input())
-for e in range(r,v+1):
+for e in range(r,v):
    if e > 1:
        for i in range(2,e):
            if (e % i) == 0:
